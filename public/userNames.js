@@ -1,0 +1,3 @@
+window.names = [
+  'Farhan, Muhammad'
+];
